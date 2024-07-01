@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "npm i && chcp 65001 && node index.js"
+  },
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.8.0",
+    "readline-sync": "^1.4.10",
+    "y": "^0.3.2"
+  }
+}
